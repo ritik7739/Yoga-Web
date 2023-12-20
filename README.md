@@ -6,14 +6,14 @@ Yoga web site where customers can register and get enrolled to the classes.
 
 ## Demo
 
-https://yoga-app-assigment.onrender.com
+
 ## Documentation
 
-[Schema and ER](https://drive.google.com/file/d/1ESCwwhU_0TYrBlwzRheWX81ysudaY-CD/view?usp=drive_link)
+[Schema and ER](https://drive.google.com/file/d/1DW9SKkbh8zwy0MH1BBf06oorx_9YmV28/view?usp=drivesdk)
 
-[Link to Documentation](https://drive.google.com/file/d/1n_KCyEVsgHgkv5D8JxMTlUW0R5D9M5e4/view?usp=drive_link)
+[Link to Documentation](https://drive.google.com/file/d/1DXShVQcecq4UNX0lQJmI2I5ynwoJedr6/view?usp=drivesdk)
 
-[Link to Assumptions Made](https://drive.google.com/file/d/1bOfZn9DkC_oJfuIF1B6Q7qVjSEVdGSnY/view?usp=drive_link)
+[Link to Assumptions Made](https://drive.google.com/file/d/1Dc7Zhg8kdvAesgZNSwva_figXTwg1sNK/view?usp=drivesdk)
 
 
 
@@ -25,7 +25,7 @@ https://yoga-app-assigment.onrender.com
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/ritik7739/Yoga-Web.git
 ```
 For Frontend:
 
