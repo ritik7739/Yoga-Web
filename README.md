@@ -1,4 +1,4 @@
-# Yoga Web App (Flex Money Assignment)
+# Yoga Web App 
 
 
 Yoga web site where customers can register and get enrolled to the classes.
