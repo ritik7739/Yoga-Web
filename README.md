@@ -6,7 +6,6 @@ Yoga web site where customers can register and get enrolled to the classes.
 
 ## Demo
 
-https://yoga-app-assigment.onrender.com/
 ## Documentation
 
 [Schema and ER](https://drive.google.com/file/d/1DW9SKkbh8zwy0MH1BBf06oorx_9YmV28/view?usp=drivesdk)
